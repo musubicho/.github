@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-  <img alt="Musubicho, an AI travel metaverse" src="./banner.png">
+  <img alt="Nyatabi, an AI travel metaverse" src="./banner.png">
 </picture>
 
 **An AI travel metaverse for iPhone.** A trip is a world you share: the days, the places, the people, and the money. Tell Musubi what happened, or show a photo, and that world updates around you.
